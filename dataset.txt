@@ -1,2 +1,14 @@
 https://www.unb.ca/cic/datasets/ids-2017.html
 this is the link for the dataset
+
+- Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+- Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+- Friday-WorkingHours-Morning.pcap_ISCX.csv
+- Monday-WorkingHours.pcap_ISCX.csv
+- Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+- Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+- Tuesday-WorkingHours.pcap_ISCX.csv
+- Wednesday-workingHours.pcap_ISCX.csv
+
+
+Capturing CICIDS 2017 dataset was over five days and it comprises of several popular types of attacks, ranging from DDoS, Port scanning, Infiltration, Web attacks and so on. The network flows, for each day or session, are stored in a CSV file and on the left hand side of the file are the traffic type and the attack category. A subset of the complete dataset was used for this implementation of just the key files needed to give a fair representation of typical network behavior as well as typical malicious behavior.
